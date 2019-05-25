@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-proyecto-badges/static/css/main.2c820164.chunk.css",
+    "main.js": "/react-proyecto-badges/static/js/main.5b78d1d4.chunk.js",
+    "main.js.map": "/react-proyecto-badges/static/js/main.5b78d1d4.chunk.js.map",
+    "runtime~main.js": "/react-proyecto-badges/static/js/runtime~main.5f4f7389.js",
+    "runtime~main.js.map": "/react-proyecto-badges/static/js/runtime~main.5f4f7389.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/react-proyecto-badges/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.6db111bf.chunk.js": "/react-proyecto-badges/static/js/2.6db111bf.chunk.js",
+    "static/js/2.6db111bf.chunk.js.map": "/react-proyecto-badges/static/js/2.6db111bf.chunk.js.map",
+    "index.html": "/react-proyecto-badges/index.html",
+    "precache-manifest.e81220a5ea1c52329f6bc07fd2f1046f.js": "/react-proyecto-badges/precache-manifest.e81220a5ea1c52329f6bc07fd2f1046f.js",
+    "service-worker.js": "/react-proyecto-badges/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/react-proyecto-badges/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.2c820164.chunk.css.map": "/react-proyecto-badges/static/css/main.2c820164.chunk.css.map",
+    "static/media/astronauts.svg": "/react-proyecto-badges/static/media/astronauts.71addf45.svg",
+    "static/media/badge-header.svg": "/react-proyecto-badges/static/media/badge-header.973f5842.svg",
+    "static/media/logo.svg": "/react-proyecto-badges/static/media/logo.0026b862.svg",
+    "static/media/platzi-conf-logo.svg": "/react-proyecto-badges/static/media/platzi-conf-logo.f246f5f1.svg",
+    "static/media/BadgeDetails.css": "/react-proyecto-badges/static/media/stars.1d17360a.svg"
+  }
+}
